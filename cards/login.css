@@ -6,8 +6,12 @@ body {
   font-family: Roboto;
 }
 
-.footer {
+/* .footer {
   position: fixed;
+} */
+
+.container1 {
+  padding: 50px;
 }
 
 .login-form {
