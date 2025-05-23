@@ -1,3 +1,3 @@
 # Wirstwatch_site
 
-Projekt na zaliczenie przedmiotu Tworzenie Stron Internetowych
+Simple website project - online wirstwatch store
